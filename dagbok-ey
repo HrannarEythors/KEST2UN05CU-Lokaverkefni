@@ -12,3 +12,4 @@ Lagaði routerinn og switch uppsetningu og breytti ip tölum, breytti private ip
 4.5.2018
 
 Löguðum default gateway, flóknari password, gerðum vefsíðu á 1.1.1.3 og bættum við fleiri tækjum.
+Gerðum SSH og motd.
