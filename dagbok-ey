@@ -4,3 +4,11 @@ Eyþór Alexander Hildarson
 
 vorum að pæla frekar mikið í hvernig við ætlum að fara að þessu og svona algjör stemmari.
 setti upp router, switchana tvo og serverana.
+
+27.4.2018
+
+Lagaði routerinn og switch uppsetningu og breytti ip tölum, breytti private ip addressum í public og löguðum til.
+
+4.5.2018
+
+Löguðum default gateway, flóknari password, gerðum vefsíðu á 1.1.1.3 og bættum við fleiri tækjum.
