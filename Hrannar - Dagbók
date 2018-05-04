@@ -1,0 +1,13 @@
+20.4.2018
+Henti öllu upp í packet tracer. Setti upp báða Wireless router-ana og setti nokkur tæki inn á þau
+
+24.4.2018
+Setti inn password á Wireless routerana og setti smá upp á switch. komst að því að ip tölurnar hjá mér voru vitlausar þannig að ég
+lagaði þær
+
+27.4.2018
+Settum upp default-gateway á alla, en það virtis ekkert vera að virka. Föttuðum í lok tímans að við vorum óvart með switch-ana sem
+default-gateway en ekki router. Setti líka upp DHCP serverinn
+
+4.5.2018
+Löguðum öll default-gateway, settum flóknari password, gerði vefsíðu og setti upp helling af tölvum, fartölvum og símum
